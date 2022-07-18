@@ -1,0 +1,17 @@
+{
+    "name": "root/swoole",
+    "description": "mSwoole",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+
+        }
+    },
+    "authors": [
+        {
+            "name": "lihuangpeng",
+            "email": "1648763407@qq.com"
+        }
+    ],
+    "require": {}
+}
